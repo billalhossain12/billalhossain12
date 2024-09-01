@@ -1,9 +1,9 @@
 👋 Hi, I’m @billalhossain12
 👀 Interests: Crafting responsive web interfaces and exploring new frontend tech.
-🌱 Learning: React, Vue, and web performance optimization.
+🌱 Learning: Next.js, TypeScript, and web performance optimization.
 💞️ Collaborating on: Frontend projects with a focus on UX/UI.
-📫 Reach me: [your-email@example.com] or LinkedIn.
-😄 Pronouns: He/Him
+📫 Reach me: billalhossain343434@gmail.com or LinkedIn.
+😄 Pronouns: He
 ⚡ Fun fact: I’m a frontend web developer who loves experimenting with design trends.
 
 <!---
