@@ -1,24 +1,44 @@
-### 👋 Hi, I’m @billalhossain12
+## 👋 Hi, I’m Billal Hossain
 
-👀 **Interests**:  
-Crafting responsive web interfaces and exploring new frontend tech.
+🚀 Full Stack Web Developer focused on building scalable, secure, and user-centric web applications.
+---
+### 🛠 Tech Stack
 
-🌱 **Learning**:  
-Next.js, TypeScript, and web performance optimization.
+**Frontend**
+- React.js, Next.js
+- TypeScript, JavaScript (ES6+)
+- Tailwind CSS, Ant Design, Bootstrap
 
-💞️ **Collaborating on**:  
-Frontend projects with a focus on UX/UI.
+**Backend**
+- Node.js, Express.js
+- REST APIs, GraphQL
+- JWT Authentication
 
-📫 **Reach me**:  
-billalhossain343434@gmail.com
+**Database & ORM**
+- MongoDB, Mongoose
+- PostgreSQL
+- Prisma
 
-😄 **Pronouns**:  
-He/Him
+**Auth & Cloud**
+- Firebase, Supabase
 
-⚡ **Fun fact**:  
-I’m a frontend web developer who loves experimenting with design trends.
+---
 
-<!---
-billalhossain12/billalhossain12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=billalhossain12&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=billalhossain12&theme=tokyonight)
+
+---
+
+### 🧠 What I Do
+- Build modern full-stack applications
+- Design scalable backend architectures
+- Implement authentication & authorization
+- Optimize performance and UX
+
+---
+
+### 📫 Contact
+📧 billalhossain343434@gmail.com  
+🔗 https://github.com/billalhossain12
